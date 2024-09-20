@@ -1,6 +1,7 @@
 Smile School Website
 
 Smile School Logo
+![image](https://github.com/user-attachments/assets/ddf415ba-3b97-4f32-8f29-7cf6a2d20b39)
 
 Features
 
@@ -26,9 +27,11 @@ Phillip Massey: "Smile of the Year" 2018-2019. Smile School Logo
 
 
 Nannie Lawrence: Best "Little Smile" 2017. Smile School Logo
+![image](https://github.com/user-attachments/assets/03c17b54-ed80-4615-b769-3ebe762dacca)
 
 
-Bruce Walters: Best "Friend Smile" live performance 2019. Smile School Logo
+Bruce Walters: Best "Friend Smile" live performance 2019. 
+![image](https://github.com/user-attachments/assets/4bf905b4-f110-4518-b128-e285035df9b8)
 
 
 Henry Hughes: "24h Smiles" winner from 2016-2019. Smile School Logo
